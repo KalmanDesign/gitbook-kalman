@@ -14,4 +14,7 @@ Build personal inspiration library, tool library, better sort out the knowledge 
 
 {% embed url="https://figma.tovi.fun/#IdClassify" %}
 
+{% embed url="https://www.baidu.com" %}
+
+
 {% embed url="https://dribbble.com/Kalman_Huang" %}
