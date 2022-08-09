@@ -8,12 +8,12 @@ Hello~ I’m Kalman.User Experience Designer, Interface Designer, Interaction De
 
 
 
+## Originally Created
+
+Build personal inspiration library, tool library, better sort out the knowledge base content, help more to design enthusiasts to learn design in depth.
 
 
-## Work Experience
 
-- 曾任深圳市超级猩猩健身管理有限公司 **高级UI设计师**
-- 互维营养文化教育科技有限公司 **线上设计负责人**
-- 前后参与并主导多个大型项目设计，主要涉及运动健康、营养教育、电商平台、社交平台等领域。
+## Contact Me
 
 ​	
