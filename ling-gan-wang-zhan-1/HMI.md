@@ -1,14 +1,13 @@
-# 界面设计
+# HMI设计
 
-## 我要试一下得唔得
+##### 飞书HMI文档
 
-### dsqw
+{% embed url="https://fd0bvliidp.feishu.cn/base/bascn7uoVeXXfdcTQiHbExwtjsd?table=tblA66J92jn8uLzs&view=vew9SXPNNw"%}
 
+##### Uber Garage 展示
 
-Dasdjoihasidohaish
+{% embed url="https://s3-us-west-2.amazonaws.com/uber-common-public/garage/index.html#"%}
 
+##### HMI体验设计资源汇总
 
-
-423784623874687236
-
-Dashdkasjhdk
+{% embed url="https://nextjs-notion-starter-kit-b5c64eg8p-jackywine.vercel.app/hmi"%}
