@@ -29,8 +29,6 @@
 
 * [能力评估](ling-gan-wang-zhan-1/能力评估.md)
 
+* [设计导航](ling-gan-wang-zhan-1/设计导航.md)
+
   
-
-## Group 1
-
-* [Page 5](group-1/page-5.md)
