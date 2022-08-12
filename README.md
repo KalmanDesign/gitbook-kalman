@@ -8,10 +8,6 @@ Hello\~ I’m Kalman.User Experience Designer, Interface Designer, Interaction D
 
 Build personal inspiration library, tool library, better sort out the knowledge base content, help more to design enthusiasts to learn design in depth.
 
-## Contact Me
-
-{% embed url="https://www.pinterest.com/kalman9543/" %}
-
-{% embed url="https://twitter.com/kalmanHuang" %}
+## Contact  Me
 
 {% embed url="https://dribbble.com/Kalman_Huang" %}
